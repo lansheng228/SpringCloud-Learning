@@ -3,7 +3,6 @@ package com.didispace;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 
-//@EnableDiscoveryClient
 @SpringBootApplication
 public class Application {
 

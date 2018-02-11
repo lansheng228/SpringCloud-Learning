@@ -3,7 +3,7 @@ spring:
     name: api-gateway
 
 server:
-  port: 1101
+  port: 8101
 
 zuul:
   routes:
@@ -14,4 +14,4 @@ zuul:
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://localhost:1001/eureka/
+      defaultZone: http://localhost:8001/eureka/

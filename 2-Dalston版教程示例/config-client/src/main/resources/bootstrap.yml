@@ -3,10 +3,10 @@ spring:
     name: config-client
   cloud:
     config:
-      uri: http://localhost:1201/
+      uri: http://localhost:8201/
       profile: default
       label: master
 
 server:
-  port: 2001
+  port: 9001
 

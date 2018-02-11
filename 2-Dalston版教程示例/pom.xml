@@ -24,6 +24,7 @@
         <module>config-client</module>
 
         <module>eureka-consumer-ribbon-hystrix</module>
+        <module>eureka-consumer-ribbon-hystrix-amqp</module>
         <module>eureka-consumer-feign-hystrix</module>
 
         <module>hystrix-dashboard</module>
